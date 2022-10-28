@@ -14,7 +14,7 @@
   "private": true,
   "devDependencies": {
     "@types/chai": "^4.2.22",
-    "@types/jest": "^27.0.2",
+    "@types/jest": "^27.5.2",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.11.7",
     "chai": "^4.3.4",
